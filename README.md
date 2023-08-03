@@ -1,6 +1,6 @@
 The overview of Informer-LSTM hybrid network
 
-![image-20230803214848151](img/informer.png)
+![image-20230803214848151](img/image-20230803214848151.png)
 
 ![image-20230803214919657](img/image-20230803214919657.png)
 
